@@ -1,0 +1,15 @@
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.csproj.AssemblyReference.cache
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.AssemblyInfoInputs.cache
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.AssemblyInfo.cs
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.csproj.CoreCompileInputs.cache
+D:\Documents\Estructura de datos\semana2\bin\Debug\net6.0\semana2.exe
+D:\Documents\Estructura de datos\semana2\bin\Debug\net6.0\semana2.deps.json
+D:\Documents\Estructura de datos\semana2\bin\Debug\net6.0\semana2.runtimeconfig.json
+D:\Documents\Estructura de datos\semana2\bin\Debug\net6.0\semana2.dll
+D:\Documents\Estructura de datos\semana2\bin\Debug\net6.0\semana2.pdb
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.dll
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\refint\semana2.dll
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.pdb
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\semana2.genruntimeconfig.cache
+D:\Documents\Estructura de datos\semana2\obj\Debug\net6.0\ref\semana2.dll

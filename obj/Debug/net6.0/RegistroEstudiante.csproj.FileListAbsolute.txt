@@ -1,0 +1,15 @@
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\bin\Debug\net6.0\RegistroEstudiante.exe
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\bin\Debug\net6.0\RegistroEstudiante.deps.json
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\bin\Debug\net6.0\RegistroEstudiante.runtimeconfig.json
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\bin\Debug\net6.0\RegistroEstudiante.dll
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\bin\Debug\net6.0\RegistroEstudiante.pdb
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.csproj.AssemblyReference.cache
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.AssemblyInfoInputs.cache
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.AssemblyInfo.cs
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.csproj.CoreCompileInputs.cache
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.dll
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\refint\RegistroEstudiante.dll
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.pdb
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\RegistroEstudiante.genruntimeconfig.cache
+D:\Documents\Estructura de datos\semana3\RegistroEstudiante\obj\Debug\net6.0\ref\RegistroEstudiante.dll
